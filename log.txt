@@ -1,0 +1,11 @@
+Start: Sun, 15 Feb 2015 10:29:12 -0800
+End: Sun, 15 Feb 2015 17:16:57 -0800
+Tasks: Added Delete all button and cleaned up code.
+
+Start: Fri, 13 Feb 2015 10:12:31 -0800
+End: Fri, 13 Feb 2015 14:53:47 -0800
+Tasks: Started markup layout, created database and add video functionality
+
+Start: Wed, 11 Feb 2015 09:04:22 -0800
+End: Wed, 11 Feb 2015 13:23:42 -0800
+Tasks: Watched videos and initial project research
